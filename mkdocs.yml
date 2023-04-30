@@ -27,13 +27,6 @@ theme:
     - announce.dismiss
   language: en
 
-extra:
-  generator: false
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/ApexAgante
-      name: ApexAgante on Github
-
 markdown_extensions:
   - abbr
   - admonition
@@ -71,6 +64,3 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
-copyright: |
-  &copy; 2023 <a href="https://github.com/ApexAgante"  target="_blank" rel="noopener">Apex Agante</a>
